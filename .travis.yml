@@ -3,6 +3,7 @@ node_js:
 - "16.15.0" 
 
 before_script: 
+- cp .env.example .env
 - yarn
 - npx hardhat test
 - npx hardhat coverage
