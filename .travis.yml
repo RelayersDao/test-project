@@ -6,6 +6,7 @@ before_script:
 - cp .env.example .env
 
 - yarn
-- npx hardhat complie
+- npx hardhat typechain
+- npx hardhat compile
 - npx hardhat test
 - npx hardhat coverage
