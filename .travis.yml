@@ -1,0 +1,8 @@
+language: node_js 
+node_js: 
+- "10.19.0" 
+
+before_script: 
+- yarn
+- npx hardhat test
+- npx hardhat coverage
