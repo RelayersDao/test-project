@@ -1,4 +1,5 @@
 # Tornado Cash Relayers Staking Protocol [![Build Status](https://app.travis-ci.com/RelayersDao/test-project.svg?branch=main)](https://github.com/RelayersDao/test-project/actions)
+![AppVeyor](https://img.shields.io/appveyor/build/RelayersDao/test-project)
 
 Relayers Dao is the Tornado Cash relayers staking protocol,which allows their users to earn relayers staking rewards without locking TORN or maintaining relayers infrastructure.
 
